@@ -1,5 +1,3 @@
-import { runStrategyGoodExample } from "./patterns/strategy/demo";
-import { runStrategyBadExample } from "./patterns/strategy/demo";
+import { runDecoratorExample } from "./patterns/decorator/demo";
 
-runStrategyBadExample();
-runStrategyGoodExample();
+runDecoratorExample();
