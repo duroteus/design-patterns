@@ -1,4 +1,4 @@
-## Singleton Pattern (Node.js)
+## Singleton Pattern
 
 ### Problem
 

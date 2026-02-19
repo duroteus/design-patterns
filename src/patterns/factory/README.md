@@ -1,4 +1,4 @@
-# Factory Method Pattern (Node.js / TypeScript)
+# Factory Method Pattern
 
 ## Intent
 

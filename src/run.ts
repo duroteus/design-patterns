@@ -1,3 +1,5 @@
-import { runFactoryGoodExample } from "./patterns/factory/demo";
+import { runStrategyGoodExample } from "./patterns/strategy/demo";
+import { runStrategyBadExample } from "./patterns/strategy/demo";
 
-runFactoryGoodExample();
+runStrategyBadExample();
+runStrategyGoodExample();
