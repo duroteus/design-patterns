@@ -1,3 +1,3 @@
-import { runCommandExample } from "./patterns/command/demo";
+import { runDIExample } from "./patterns/dependency-injection/demo";
 
-runCommandExample();
+runDIExample();
