@@ -1,3 +1,3 @@
-import { runDecoratorExample } from "./patterns/decorator/demo";
+import { runRepositoryExample } from "./patterns/repository/demo";
 
-runDecoratorExample();
+runRepositoryExample();
