@@ -1,3 +1,3 @@
-import { runRepositoryExample } from "./patterns/repository/demo";
+import { runCommandExample } from "./patterns/command/demo";
 
-runRepositoryExample();
+runCommandExample();
